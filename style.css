@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #f4f4f4;
+  color: #333;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.contact {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #005fa3;
+}
